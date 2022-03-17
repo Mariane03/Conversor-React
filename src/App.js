@@ -9,7 +9,7 @@ class App extends Component {
   render(){
     return (
       <div>
-        <h1>Conversor de Moedas</h1>
+        <h1>Conversor de Moedas!</h1>
           <div className="linha">
           <Conversor moedaA="USD" moedaB="BRL"></Conversor>
           <Conversor moedaA="BRL" moedaB="USD"></Conversor>
